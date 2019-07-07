@@ -15,6 +15,10 @@
 * Ferritfolie: 100 um
 * Gesamtvolumen: 22 qmm
 
+# Datenrate
+* Tx -> Rx: 106 kb/s
+* Rx -> Tx: 106 kb/s
+
 # Standardisierung
 
 ## Small Device Charging
